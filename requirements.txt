@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+numpy
+streamlit-option-menu
+pickle-mixin
+
